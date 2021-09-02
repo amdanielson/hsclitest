@@ -1,0 +1,2 @@
+# hsclitest
+HS CLI test
